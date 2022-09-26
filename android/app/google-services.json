@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639229292128",
+    "project_id": "connectreactnative-c4ea3",
+    "storage_bucket": "connectreactnative-c4ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639229292128:android:7c4f092ffe17e379951d05",
+        "android_client_info": {
+          "package_name": "com.connectu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639229292128-ki6s8lq59e7jajqjcgi9gj4op62cr2hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qmN2uW9RSS29Xq3gjVaI4F3jds5RT5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639229292128-ki6s8lq59e7jajqjcgi9gj4op62cr2hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
